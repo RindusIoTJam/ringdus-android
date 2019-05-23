@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ringdus</string>
+    <string name="door_open">Welcome!\nThe door is open</string>
+    <string name="out_of_wifi">Not connected to Rindus network.</string>
+    <string name="not_authorized">not authorized API Key incorrect</string>
+    <string name="error_general">Generic Error</string>
+</resources>

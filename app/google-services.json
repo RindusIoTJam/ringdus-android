@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157735322087",
+    "firebase_url": "https://ringdus.firebaseio.com",
+    "project_id": "ringdus",
+    "storage_bucket": "ringdus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157735322087:android:9ab5f7b2fdd04add",
+        "android_client_info": {
+          "package_name": "de.rindus.ringdus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157735322087-98fhn8ovi1cbr3qlkmrhcsqaqbt8h3ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyEqGeWnuhgLckdkGXjAKvI_rj1OyBLjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157735322087-98fhn8ovi1cbr3qlkmrhcsqaqbt8h3ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
